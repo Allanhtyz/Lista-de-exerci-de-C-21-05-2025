@@ -1,8 +1,8 @@
-namespace projeto;
+namespace projeto2;
 
- class exerc2
+class Program
 {
-    static void Main()
+    public static void Main(string[] args)
     {
         double nota1, nota2, nota3, media;
 
